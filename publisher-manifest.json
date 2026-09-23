@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "539a6b1bcff8846851bd586c",
+  "owner": "cvmncfybabm",
+  "repo": "page-01d3e5160e02fe974ef0b5f9",
+  "title": "Orymi",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "01d3e5160e02fe974ef0b5f9",
+      "a": "Orymi",
+      "b": "稳定全球clash加速器",
+      "entity": "Orymi",
+      "brand": "Orymi",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6bc08b75342b7ad594bf3f611bfd11cea28f06929a8c2ab5a2215d36f0213c22",
+      "content": {
+        "primary_entity": "Orymi",
+        "keyword1": "Orymi",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_TITLE": "客户端选择指引",
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，订阅配置更顺畅。",
+          "AI_DESCRIPTION": "，Orymi 面向需要稳定连接的用户，提供覆盖多地区节点的网络加速服务，支持在 Windows、macOS、iOS、Android 与路由器等设备上通过客户端导入订阅。套餐按流量与并发设备数划分，基础版适合轻量浏览，旗舰版增加 IPLC 专线与流媒体解锁，团队版满足多人多设备协作，按年付费更划算。",
+          "AI_HERO_SUBTITLE": "稳定连接，按设备选订阅",
+          "AI_HERO_INTRO": "Orymi 提供多地区节点与多种套餐组合，可依据设备数量、流量需求和订阅周期挑选合适方案，再通过客户端导入订阅开始使用。",
+          "AI_VISUAL_TITLE": "Orymi 加速方案一览",
+          "AI_HIGHLIGHT_1": "多地区节点自由切换",
+          "AI_HIGHLIGHT_2": "按设备数匹配套餐",
+          "AI_HIGHLIGHT_3": "年付套餐更省预算",
+          "AI_FEATURES_TITLE": "方案特点",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解 Orymi。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，旗舰版 300GB 并含 IPLC 专线，团队版 1000GB 适合多人共用。",
+          "AI_FEATURE_TITLE_2": "设备数量清晰",
+          "AI_FEATURE_TEXT_2": "三档套餐分别支持 3 台、5 台与 20 台设备同时在线，可先统计常用设备数再决定。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供月付与年付，年付价格分别折算为 ¥150、¥350 与 ¥850，长期使用更合适。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对照流量、设备数与年付价格，选最贴合日常使用的方案。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_GUIDE_INTRO": "先定套餐，再核对适配，最后按客户端说明导入订阅。",
+          "AI_STEP_TITLE_1": "确定套餐",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本满足订阅导入所需条件，避免配置中断。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的操作说明导入订阅，并选择合适的节点线路。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更平稳",
+          "AI_CLOSING_TEXT": "根据实际设备与流量需求挑一个方案，按客户端说明完成订阅配置，即可开始使用 Orymi。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "Orymi 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看同时在线设备数：3 台以内选基础版，5 台左右选旗舰版，超过 10 台选团队版。再看月流量，100GB 够轻度使用，300GB 兼顾流媒体，1000GB 供多人共享。依赖低延迟线路时优先旗舰版。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，相当于十个月月付费用；旗舰版 ¥350、团队版 ¥850 同理。年付一次性支付，月付按月结算，两者在流量与设备数上相同。",
+          "AI_FAQ_QUESTION_3": "手机和电脑可以共用一个订阅吗？",
+          "AI_FAQ_ANSWER_3": "Orymi 套餐按同时在线设备数计算，基础版 3 台、旗舰版 5 台、团队版 20 台。在手机、电脑、平板间切换使用时，只要当前在线设备不超过所选套餐上限，就可以共用同一份订阅。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后取得订阅链接，打开对应客户端，在订阅管理或配置导入位置粘贴链接并更新。不同客户端菜单名称略有差异，具体位置以客户端自带文档为准。",
+          "AI_FAQ_QUESTION_5": "流量超出会怎样？",
+          "AI_FAQ_ANSWER_5": "套餐内流量按月重置，超出后通常需要等待下个周期或升级到更高档位。若月中已接近上限，可先评估当月用量，再决定是否切换到流量更大的套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ghq34niyge0z1m5a.com",
+    "host": "xn--ghq34niyge0z1m5a.com"
+  },
+  "file_hashes": {
+    "index.html": "317a9e9c274ada4536319a08d6f1762e1bc731d52972eabf06601a14ed1d0977",
+    "sitemap.xml": "16bc16d38b548667ac9f641f52ffbf0807bb703abfd64ae45150e5a2d534acce",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68ffaf44308570c05d5686e3038cfc4539045b18fa37c0af267da1cb0170978d",
+    "robots.txt": "ff597da8b9c47f7943585775212e49b0c93c814c7eaf0474c309db0255fbe09a",
+    "0418336d756417634328f0e88982c808.txt": "02a76afa2e108ddbe8a0002589179c4667fd05b5731ac3d0978a042b54a8184b"
+  },
+  "revision": "e0e2f1388c1f4d22e0046ed9f80ca19609d2a00d0e958e85ff92d73368f0dbad"
+}
